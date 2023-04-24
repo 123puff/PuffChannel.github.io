@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://123puff.github.io/PuffChannel.io/</id>
+    <title>puff channel</title>
+    <updated>2023-04-24T08:29:22.806Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://123puff.github.io/PuffChannel.io/"/>
+    <link rel="self" href="https://123puff.github.io/PuffChannel.io/atom.xml"/>
+    <subtitle>puff channel</subtitle>
+    <logo>https://123puff.github.io/PuffChannel.io/images/avatar.png</logo>
+    <icon>https://123puff.github.io/PuffChannel.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, puff channel</rights>
+    <entry>
+        <title type="html"><![CDATA[LSD研究报告]]></title>
+        <id>https://123puff.github.io/PuffChannel.io/post/hello-gridea/</id>
+        <link href="https://123puff.github.io/PuffChannel.io/post/hello-gridea/">
+        </link>
+        <updated>2023-04-23T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LSDFI产品设计报告]]></title>
+        <id>https://123puff.github.io/PuffChannel.io/post/lsdfi-chan-pin-she-ji-bao-gao/</id>
+        <link href="https://123puff.github.io/PuffChannel.io/post/lsdfi-chan-pin-she-ji-bao-gao/">
+        </link>
+        <updated>2023-04-23T07:58:31.000Z</updated>
+    </entry>
+</feed>
